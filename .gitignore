@@ -1,0 +1,17 @@
+EntropiaConfiguracionalV4/medicoes
+EntropiaConfiguracionalV4/src/cpp/libs/Aboria/*
+EntropiaConfiguracionalV4/src/cpp/libs/nauty/*
+EntropiaConfiguracionalV4/src/cpp/libs/pybind11/*
+
+EntropiaConfiguracionalV5/medicoes
+EntropiaConfiguracionalV5/src/cpp/libs/Aboria/*
+EntropiaConfiguracionalV5/src/cpp/libs/nauty/*
+EntropiaConfiguracionalV5/src/cpp/libs/pybind11/*
+
+EntropiaConfiguracionalV6/medicoes
+EntropiaConfiguracionalV6/src/cpp/libs/Aboria/*
+EntropiaConfiguracionalV6/src/cpp/libs/nauty/*
+EntropiaConfiguracionalV6/src/cpp/libs/pybind11/*
+EntropiaConfiguracionalV6/tempos_speedup
+
+tempos/

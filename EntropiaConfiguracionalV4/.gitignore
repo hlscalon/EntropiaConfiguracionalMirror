@@ -1,0 +1,11 @@
+src/boost_graph.so
+src/generated_files
+medicoes
+medicoes/
+src/python/*.pyc
+src/python/boost_graph.so
+src/__init__.pyc
+src/cpp/libs/nauty
+*.pyc
+*.so
+comandos_init_main

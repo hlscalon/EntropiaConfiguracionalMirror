@@ -1,7 +1,0 @@
-filepath: arquivos_xyz/fcc2048.xyz; covalent: 1.12; c: 0.0; n1: 3; n2: 26;
-n: 3; m: 18432; H_n: 0.00346618706946; H1n: 0.0; consider: Y;
-n: 4; m: 32768; H_n: 0.693816715187; H1n: 0.0; consider: Y;
-n: 5; m: 51200; H_n: 0.637090770284; H1n: 0.0; consider: Y;
-n: 6; m: 73728; H_n: 1.01295118061; H1n: 0.0; consider: Y;
-n: 7; m: 100352; H_n: 0.637185459591; H1n: 0.0; consider: Y;
-n: 8; m: 131072; H_n: 0.947658990125; H1n: 0.0; consider: Y;
