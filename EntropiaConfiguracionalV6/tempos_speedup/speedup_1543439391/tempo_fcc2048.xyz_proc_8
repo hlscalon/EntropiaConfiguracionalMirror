@@ -1,0 +1,16 @@
+         16 function calls in 0.004 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.003    0.003    0.004    0.004 configurational_entropy.py:1(<module>)
+        1    0.000    0.000    0.001    0.001 __init__.py:101(<module>)
+        1    0.000    0.000    0.000    0.000 six.py:21(<module>)
+        1    0.000    0.000    0.004    0.004 main.py:1(<module>)
+        1    0.000    0.000    0.000    0.000 __future__.py:48(<module>)
+        7    0.000    0.000    0.000    0.000 __future__.py:75(__init__)
+        1    0.000    0.000    0.000    0.000 __future__.py:74(_Feature)
+        2    0.000    0.000    0.000    0.000 __init__.py:1(<module>)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+

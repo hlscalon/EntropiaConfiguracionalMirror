@@ -1,0 +1,9 @@
+filepath: ../../arquivos_xyz/fcc2048.xyz; covalent: 1.12; c: 0.0; n1: 3; n2: 26;
+n: 3; m: 18432; H_n: 0.000596610080934; H1n: 0.0; consider: Y;
+n: 4; m: 32768; H_n: 0.693310929767; H1n: 0.0; consider: Y;
+n: 5; m: 51200; H_n: 0.63799513887; H1n: 0.0; consider: Y;
+n: 6; m: 73728; H_n: 1.01243671784; H1n: 0.0; consider: Y;
+n: 7; m: 100352; H_n: 0.636438279816; H1n: 0.0; consider: Y;
+n: 8; m: 131072; H_n: 0.949507714205; H1n: 0.0; consider: Y;
+n: 9; m: 165888; H_n: 1.15301757449; H1n: 0.0; consider: Y;
+n: 10; m: 204800; H_n: 1.68903911274; H1n: 0.0; consider: Y;

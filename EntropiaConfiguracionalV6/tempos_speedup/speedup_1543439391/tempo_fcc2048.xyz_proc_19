@@ -1,0 +1,30 @@
+         99 function calls in 0.004 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.003    0.003    0.004    0.004 configurational_entropy.py:1(<module>)
+        1    0.000    0.000    0.000    0.000 six.py:21(<module>)
+        1    0.000    0.000    0.001    0.001 __init__.py:101(<module>)
+        1    0.000    0.000    0.004    0.004 main.py:1(<module>)
+       16    0.000    0.000    0.000    0.000 six.py:105(__init__)
+       20    0.000    0.000    0.000    0.000 six.py:141(__init__)
+       36    0.000    0.000    0.000    0.000 six.py:88(__init__)
+        1    0.000    0.000    0.000    0.000 __future__.py:48(<module>)
+        1    0.000    0.000    0.000    0.000 {len}
+        7    0.000    0.000    0.000    0.000 __future__.py:75(__init__)
+        1    0.000    0.000    0.000    0.000 six.py:103(MovedModule)
+        1    0.000    0.000    0.000    0.000 six.py:229(_MovedItems)
+        1    0.000    0.000    0.000    0.000 six.py:60(X)
+        2    0.000    0.000    0.000    0.000 __init__.py:1(<module>)
+        1    0.000    0.000    0.000    0.000 six.py:173(__init__)
+        1    0.000    0.000    0.000    0.000 __future__.py:74(_Feature)
+        1    0.000    0.000    0.000    0.000 six.py:164(_SixMetaPathImporter)
+        1    0.000    0.000    0.000    0.000 six.py:86(_LazyDescr)
+        1    0.000    0.000    0.000    0.000 {method 'startswith' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 six.py:124(_LazyModule)
+        1    0.000    0.000    0.000    0.000 six.py:139(MovedAttribute)
+        1    0.000    0.000    0.000    0.000 six.py:62(__len__)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+

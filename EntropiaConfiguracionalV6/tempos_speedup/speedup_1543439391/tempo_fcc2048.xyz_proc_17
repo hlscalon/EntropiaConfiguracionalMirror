@@ -1,0 +1,89 @@
+         641 function calls in 0.006 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.003    0.003    0.006    0.006 configurational_entropy.py:1(<module>)
+        1    0.001    0.001    0.001    0.001 six.py:21(<module>)
+        1    0.001    0.001    0.003    0.003 __init__.py:101(<module>)
+        1    0.000    0.000    0.001    0.001 collections.py:11(<module>)
+        1    0.000    0.000    0.000    0.000 heapq.py:31(<module>)
+        1    0.000    0.000    0.006    0.006 main.py:1(<module>)
+       88    0.000    0.000    0.000    0.000 six.py:141(__init__)
+      136    0.000    0.000    0.000    0.000 {setattr}
+      132    0.000    0.000    0.000    0.000 six.py:88(__init__)
+        1    0.000    0.000    0.000    0.000 version.py:27(<module>)
+        1    0.000    0.000    0.000    0.000 contextlib.py:1(<module>)
+        1    0.000    0.000    0.000    0.000 six.py:699(exec_)
+       51    0.000    0.000    0.000    0.000 six.py:177(_add_module)
+        1    0.000    0.000    0.000    0.000 __init__.py:9(<module>)
+       44    0.000    0.000    0.000    0.000 six.py:105(__init__)
+        6    0.000    0.000    0.000    0.000 six.py:126(__init__)
+        1    0.000    0.000    0.000    0.000 __future__.py:48(<module>)
+        1    0.000    0.000    0.000    0.000 sre_parse.py:414(_parse)
+        1    0.000    0.000    0.000    0.000 collections.py:38(OrderedDict)
+        1    0.000    0.000    0.000    0.000 re.py:230(_compile)
+       67    0.000    0.000    0.000    0.000 {isinstance}
+        1    0.000    0.000    0.000    0.000 StringIO.py:30(<module>)
+       14    0.000    0.000    0.000    0.000 six.py:184(find_module)
+        1    0.000    0.000    0.000    0.000 collections.py:407(Counter)
+        1    0.000    0.000    0.000    0.000 atexit.py:6(<module>)
+        1    0.000    0.000    0.000    0.000 keyword.py:11(<module>)
+        5    0.000    0.000    0.000    0.000 six.py:181(_get_module)
+        1    0.000    0.000    0.000    0.000 sre_parse.py:725(parse)
+        6    0.000    0.000    0.000    0.000 {getattr}
+        1    0.000    0.000    0.000    0.000 six.py:91(__get__)
+        1    0.000    0.000    0.000    0.000 functools.py:17(update_wrapper)
+        5    0.000    0.000    0.000    0.000 {len}
+        1    0.000    0.000    0.000    0.000 contextlib.py:54(contextmanager)
+        1    0.000    0.000    0.000    0.000 StringIO.py:42(StringIO)
+        1    0.000    0.000    0.000    0.000 re.py:192(compile)
+        2    0.000    0.000    0.000    0.000 sre_parse.py:194(__next)
+        7    0.000    0.000    0.000    0.000 __future__.py:75(__init__)
+        1    0.000    0.000    0.000    0.000 {hasattr}
+        2    0.000    0.000    0.000    0.000 sre_compile.py:546(isstring)
+        1    0.000    0.000    0.000    0.000 six.py:114(_resolve)
+        1    0.000    0.000    0.000    0.000 version.py:63(StrictVersion)
+        8    0.000    0.000    0.000    0.000 six.py:75(_add_doc)
+        1    0.000    0.000    0.000    0.000 functools.py:39(wraps)
+        1    0.000    0.000    0.000    0.000 six.py:103(MovedModule)
+        1    0.000    0.000    0.000    0.000 sre_parse.py:336(_parse_sub)
+        1    0.000    0.000    0.000    0.000 {__import__}
+        1    0.000    0.000    0.000    0.000 six.py:164(_SixMetaPathImporter)
+        1    0.000    0.000    0.000    0.000 six.py:475(Module_six_moves_urllib)
+        1    0.000    0.000    0.000    0.000 six.py:139(MovedAttribute)
+        1    0.000    0.000    0.000    0.000 sre_parse.py:68(__init__)
+        1    0.000    0.000    0.000    0.000 <string>:1(<module>)
+        1    0.000    0.000    0.000    0.000 six.py:436(Module_six_moves_urllib_response)
+        1    0.000    0.000    0.000    0.000 contextlib.py:132(closing)
+        1    0.000    0.000    0.000    0.000 six.py:124(_LazyModule)
+        1    0.000    0.000    0.000    0.000 sre_parse.py:93(__init__)
+        1    0.000    0.000    0.000    0.000 six.py:322(Module_six_moves_urllib_parse)
+        1    0.000    0.000    0.000    0.000 sre_parse.py:190(__init__)
+        1    0.000    0.000    0.000    0.000 six.py:173(__init__)
+        1    0.000    0.000    0.000    0.000 {method 'update' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 {delattr}
+        2    0.000    0.000    0.000    0.000 __init__.py:1(<module>)
+        1    0.000    0.000    0.000    0.000 version.py:32(Version)
+        1    0.000    0.000    0.000    0.000 {sys._getframe}
+        1    0.000    0.000    0.000    0.000 __future__.py:74(_Feature)
+        1    0.000    0.000    0.000    0.000 six.py:80(_import_module)
+        1    0.000    0.000    0.000    0.000 six.py:86(_LazyDescr)
+        1    0.000    0.000    0.000    0.000 sre_compile.py:567(compile)
+        1    0.000    0.000    0.000    0.000 sre_parse.py:213(get)
+        1    0.000    0.000    0.000    0.000 {method 'index' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 six.py:62(__len__)
+        1    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 contextlib.py:9(GeneratorContextManager)
+        1    0.000    0.000    0.000    0.000 six.py:364(Module_six_moves_urllib_error)
+        1    0.000    0.000    0.000    0.000 six.py:229(_MovedItems)
+        1    0.000    0.000    0.000    0.000 six.py:60(X)
+        1    0.000    0.000    0.000    0.000 six.py:457(Module_six_moves_urllib_robotparser)
+        1    0.000    0.000    0.000    0.000 {method 'append' of 'list' objects}
+        1    0.000    0.000    0.000    0.000 six.py:561(Iterator)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        1    0.000    0.000    0.000    0.000 six.py:384(Module_six_moves_urllib_request)
+        1    0.000    0.000    0.000    0.000 {method 'startswith' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 {globals}
+
+

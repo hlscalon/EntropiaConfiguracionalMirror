@@ -1,0 +1,63 @@
+         589 function calls in 0.005 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.003    0.003    0.005    0.005 configurational_entropy.py:1(<module>)
+        1    0.001    0.001    0.001    0.001 six.py:21(<module>)
+        1    0.001    0.001    0.002    0.002 __init__.py:101(<module>)
+        1    0.000    0.000    0.000    0.000 collections.py:11(<module>)
+        1    0.000    0.000    0.005    0.005 main.py:1(<module>)
+        1    0.000    0.000    0.000    0.000 heapq.py:31(<module>)
+       88    0.000    0.000    0.000    0.000 six.py:141(__init__)
+      133    0.000    0.000    0.000    0.000 {setattr}
+      132    0.000    0.000    0.000    0.000 six.py:88(__init__)
+       51    0.000    0.000    0.000    0.000 six.py:177(_add_module)
+        1    0.000    0.000    0.000    0.000 six.py:699(exec_)
+       44    0.000    0.000    0.000    0.000 six.py:105(__init__)
+        1    0.000    0.000    0.000    0.000 __future__.py:48(<module>)
+        6    0.000    0.000    0.000    0.000 six.py:126(__init__)
+       64    0.000    0.000    0.000    0.000 {isinstance}
+        1    0.000    0.000    0.000    0.000 StringIO.py:30(<module>)
+        1    0.000    0.000    0.000    0.000 six.py:475(Module_six_moves_urllib)
+        1    0.000    0.000    0.000    0.000 atexit.py:6(<module>)
+        1    0.000    0.000    0.000    0.000 keyword.py:11(<module>)
+        5    0.000    0.000    0.000    0.000 six.py:184(find_module)
+        1    0.000    0.000    0.000    0.000 six.py:91(__get__)
+        8    0.000    0.000    0.000    0.000 six.py:75(_add_doc)
+        7    0.000    0.000    0.000    0.000 __future__.py:75(__init__)
+        1    0.000    0.000    0.000    0.000 six.py:114(_resolve)
+        1    0.000    0.000    0.000    0.000 StringIO.py:42(StringIO)
+        5    0.000    0.000    0.000    0.000 six.py:181(_get_module)
+        1    0.000    0.000    0.000    0.000 six.py:80(_import_module)
+        1    0.000    0.000    0.000    0.000 six.py:173(__init__)
+        1    0.000    0.000    0.000    0.000 {len}
+        1    0.000    0.000    0.000    0.000 six.py:103(MovedModule)
+        2    0.000    0.000    0.000    0.000 __init__.py:1(<module>)
+        1    0.000    0.000    0.000    0.000 {hasattr}
+        1    0.000    0.000    0.000    0.000 {__import__}
+        1    0.000    0.000    0.000    0.000 six.py:164(_SixMetaPathImporter)
+        1    0.000    0.000    0.000    0.000 <string>:1(<module>)
+        1    0.000    0.000    0.000    0.000 six.py:60(X)
+        1    0.000    0.000    0.000    0.000 six.py:364(Module_six_moves_urllib_error)
+        1    0.000    0.000    0.000    0.000 {delattr}
+        1    0.000    0.000    0.000    0.000 {method 'append' of 'list' objects}
+        1    0.000    0.000    0.000    0.000 __future__.py:74(_Feature)
+        1    0.000    0.000    0.000    0.000 {method 'startswith' of 'str' objects}
+        1    0.000    0.000    0.000    0.000 six.py:124(_LazyModule)
+        1    0.000    0.000    0.000    0.000 {getattr}
+        1    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+        1    0.000    0.000    0.000    0.000 six.py:139(MovedAttribute)
+        1    0.000    0.000    0.000    0.000 six.py:436(Module_six_moves_urllib_response)
+        1    0.000    0.000    0.000    0.000 six.py:384(Module_six_moves_urllib_request)
+        1    0.000    0.000    0.000    0.000 six.py:322(Module_six_moves_urllib_parse)
+        1    0.000    0.000    0.000    0.000 six.py:229(_MovedItems)
+        1    0.000    0.000    0.000    0.000 six.py:62(__len__)
+        1    0.000    0.000    0.000    0.000 six.py:457(Module_six_moves_urllib_robotparser)
+        1    0.000    0.000    0.000    0.000 {sys._getframe}
+        1    0.000    0.000    0.000    0.000 six.py:561(Iterator)
+        1    0.000    0.000    0.000    0.000 six.py:86(_LazyDescr)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        1    0.000    0.000    0.000    0.000 {globals}
+
+
